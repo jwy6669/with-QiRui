@@ -1,68 +1,52 @@
-# with-QiRui
-
-
-
-
-# Rules
+# Rules for Jiawei and Qirui's Relationship
 
 ## Restrictions for Qirui
 
+1. All communication with ex-partners must be reported to Jiawei within 168 hours. Failure to do so will result in a penalty of 70 credits.
 
-1. All chatting activities with ex should be reported to Jiawei within 168 hours. Failing to do so may result panalties about 70 credits, such as ...
-
-2. Active helpings (such as initial request, where initial means the first talker, which means talking after 24 hours of inactivity of the other person) should only happen with the permission of Jiawei. Failing to do so may result panalties about 100--300 credits. The definition of one activity could be talked about latter.
+2. Qirui must seek permission from Jiawei before initiating any active helpings, such as initial requests, where the initial talker is the first person to communicate after 24 hours of inactivity by the other person. Failure to do so will result in a penalty of 100-300 credits.
 
 ## Restrictions for Jiawei
 
-1. penalties will be 1 each time jiawei said breakup-related sentences.
+1. Jiawei will receive a penalty of 1 credit for each time she mentions breaking up.
 
-2. penalties will be 5 each time Jiawei be very aggressive even Qirui has shown his understanding and his willingness to solve the problem. Jiawei should improve her emotion-control ability even in very bad situations. Such as decling phone call without explanation in 5 minutes, disappear or intensively not leting qirui know where Jiawei are when conflicts happen. Don't let qirui guess where i am.
+2. Jiawei will receive a penalty of 5 credits for being very aggressive, even if Qirui has shown understanding and willingness to solve the problem. Jiawei must improve her emotion-control ability even in very bad situations. For example, she must not decline phone calls without explanation, disappear, or not let Qirui know her whereabouts during conflicts. Failure to do so will result in a penalty of 5 credits.
 
+## Tentative Additions
 
+The following rules are added by Qirui, but they only become effective after Jiawei approves them. These rules are open for discussion.
 
+Add the following in attachment
 
+> Purpose: The purpose of this rule is to share our evaluation and expectation of behavior of the others, which help us to maintain a relationship under each other's expectations. The quantifying credits are used to avoid the case where one feels his effort worth more than the true benefit experienced by the other. It maintains a balance of relationships.
 
+> Expectation of Qirui: In some emergency situations, Qirui hopes Jiawei will try to control her harmful temper, but temper could still exist. Jiawei must not say harmful words to Qirui. If harmful words have been said, Qirui expects to tentatively charge Jiawei with 2 credits.
 
-# Interaction History
+## Interaction History
 
-## Apr 30
+- April 30: Jiawei agreed to accompany Qirui for the night (+2 credits).
+- May 1: Jiawei expressed the willingness to invite Qirui for dinner at her own cost (+1 credit).
+- May 3, 9:30: Qirui has awarded Jiawei for being able to use scooter with 25 dollars, which was saved from not calling Uber. (+3 credits).
+- May 3, 9:30: Qirui apologized for not having enough alert to Jiawei that one may need extra preparation time for the first use of scooter (+1 credit).
+- May 3, 9:30: Qirui tentatively wants to charge Jiawei for saying a little bit harmful words in emergency situations (-2 credits).
 
+## Total Credits Change
 
-Jiawei agreed to acompanying Qirui for the night (Jiawei +2 creidt)
-
-
-
-
-## May 1
-
-
-Jiawei express the willingness to invite Qirui for dinner at her own cost (Jiawei +1 credits)
-
-19:35 开始制定规则
-
-
-
-# General guidelines for value of credits
-
-Cooking + washing plates, Both wants to request for 3 credits, where cooking worth 1 credit, washing and cleaning worth 2 credits
-
-for Running, Qirui want to charge 0.5 credits, for shopping Qirui want to charge 0.5 credits
+| Date     | Credits Change | Total Credits |
+| -------- | -------------- | ------------- |
+| Apr 30   | +2             | 2             |
+| May 1    | +1             | 3             |
+| May 3, 9:30 | +3           | 6             |
+| May 3, 9:30 | +1           | 7             |
+| May 3, 9:30 | -2 (tentative)| 5            |
 
 
+## General Guidelines for Credit Values
 
+- Cooking and washing plates are worth a total of 3 credits: cooking is worth 1 credit, washing and cleaning are worth 2 credits.
+- Qirui charges 0.5 credits for running and shopping.
 
+## Additional Information
 
-
-
-
-
-
-additional infomation:
-
-this rule become active from 2023-05-01 20:00 EDT
-
-any behaviors happened before this date violating the rules should not be penalized.
-
-when some conficts are happening at the first time, penalty can not be taken place, the first thing to do is make rules for such behaviors and if this bad behavior happens again, penalty can be taken for person who violates the rule.
-
+- These rules become active on May 1, 2023, at 8:
 
