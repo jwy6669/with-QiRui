@@ -24,22 +24,13 @@ Add the following in attachment
 
 ## Interaction History
 
-- April 30: Jiawei agreed to accompany Qirui for the night (+2 credits).
-- May 1: Jiawei expressed the willingness to invite Qirui for dinner at her own cost (+1 credit).
-- May 3, 9:30: Qirui has awarded Jiawei for being able to use scooter with 25 dollars, which was saved from not calling Uber. (+3 credits).
-- May 3, 9:30: Qirui apologized for not having enough alert to Jiawei that one may need extra preparation time for the first use of scooter (+1 credit).
-- May 3, 9:30: Qirui tentatively wants to charge Jiawei for saying a little bit harmful words in emergency situations (-2 credits).
-
-## Total Credits Change
-
-| Date     | Credits Change | Total Credits |
-| -------- | -------------- | ------------- |
-| Apr 30   | +2             | 2             |
-| May 1    | +1             | 3             |
-| May 3, 9:30 | +3           | 6             |
-| May 3, 9:30 | +1           | 7             |
-| May 3, 9:30 | -2 (tentative)| 5            |
-
+| Date         | Event                                                                                                 | Credits Change | Money Awarded | Total Credits |
+| ------------ | ----------------------------------------------------------------------------------------------------- | -------------- | ------------- | ------------- |
+| Apr 30       | Jiawei agreed to accompany Qirui for the night                                                         | +2             |               | 2             |
+| May 1        | Jiawei expressed the willingness to invite Qirui for dinner at her own cost                            | +1             |               | 3             |
+| May 3, 9:30  | Qirui has awarded Jiawei for being able to use scooter with 25 dollars, which was saved from not calling Uber | +3           | $25           | 6             |
+| May 3, 9:30  | Qirui apologized for not having enough alert to Jiawei that one may need extra preparation time for the first use of scooter | +1 |               | 7             |
+| May 3, 9:30  | Qirui tentatively wants to charge Jiawei for saying a little bit harmful words in emergency situations | -2 (tentative) |               | 5             |
 
 ## General Guidelines for Credit Values
 
@@ -48,5 +39,5 @@ Add the following in attachment
 
 ## Additional Information
 
-- These rules become active on May 1, 2023, at 8:
+- These rules become active on May 1, 2023, at 8:00
 
