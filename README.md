@@ -62,4 +62,5 @@ May 3 21:00 Jiawei told Qirui to call a Uber saying that it would be too late to
 但我想或许哥哥还能因为我的情绪而有压力也说明了他爱我，否则他也不必有不良反应。我会提高控制情绪的能力。
 坦诚沟通和真诚理解才能解决问题。
 我怀疑我最近痘痘这么肆虐是哥哥家的被子有问题。
+我不喜欢早上打电话，因为那时我效率最高。
 
