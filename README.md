@@ -63,3 +63,5 @@ May 3 21:00 Jiawei told Qirui to call a Uber saying that it would be too late to
 我怀疑我最近痘痘这么肆虐是哥哥家的被子有问题。
 
 我发现当我有情绪的时候，把想说的话写下来代替直接说对降低伤害有很大帮助。
+
+0507 哥哥帮我分析课题的idea 对我很有帮助 我也喜欢哥哥讲故事
