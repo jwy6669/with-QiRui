@@ -54,3 +54,8 @@ May 3 21:00 Jiawei told Qirui to call a Uber saying that it would be too late to
 
 - These rules become active on May 1, 2023, at 8:00
 
+
+20230506
+有时候感觉人生的意义是什么，或许我该多读书。
+洗完澡后我又重新对我的课题产生兴趣，或许好奇心再是一剂良药。
+
