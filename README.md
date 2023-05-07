@@ -64,4 +64,5 @@ May 3 21:00 Jiawei told Qirui to call a Uber saying that it would be too late to
 
 我发现当我有情绪的时候，把想说的话写下来代替直接说对降低伤害有很大帮助。
 
-0507 哥哥帮我分析课题的idea 对我很有帮助 我也喜欢哥哥讲故事
+0507 哥哥帮我分析课题的idea 对我很有帮助 我也喜欢哥哥讲故事、
+哥哥会接受我的意见改变自己，真好，我也要变得更好，改善脾气
