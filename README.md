@@ -24,23 +24,28 @@ Add the following in attachment
 
 ## Interaction History
 
-
-| Date         | Event                                                                                                  | Credits Change | Money Awarded | Total Credits | Total Money |
-| ------------ | ------------------------------------------------------------------------------------------------------ | -------------- | ------------- | ------------- | ----------- |
-| Apr 30       | Jiawei agreed to accompany Qirui for the night                                                          | +2             |               | 2             |             |
-| May 1        | Jiawei expressed the willingness to invite Qirui for dinner at her own cost                             | +1             |               | 3             |             |
-| May 3, 9:30  | Qirui has awarded Jiawei for being able to use scooter with 25 dollars, which was saved from not calling Uber  | +3            | $25           | 6             | $25         |
-| May 3, 9:30  | Qirui apologized for not having enough alert to Jiawei that one may need extra preparation time for the first use of scooter  | +1 |              | 7             |          |
-| May 3, 9:30  | Qirui tentatively wants to charge Jiawei for saying a little bit harmful words in emergency situations   | -2 (tentative) |               | 5             |          |
-| May 3, 10:00 | Qirui transferred $25 to Jiawei's account                                                                  |                | -$25          | 5             | $0          |
-| May 3, 17:50 | Jiawei charged herself 6 credits for being late (initially charged 30 credits and returned 24 credits)    | -6             |               | -1            |          |
+| Date        | Event                                                                                                        | Credits Change | Money Awarded | Total Credits | Total Money |
+| ----------- | ------------------------------------------------------------------------------------------------------------ | -------------- | ------------- | ------------- | ----------- |
+| Apr 30      | Jiawei agreed to accompany Qirui for the night                                                                | +2             |               | 2             |             |
+| May 1       | Jiawei expressed the willingness to invite Qirui for dinner at her own cost                                   | +1             |               | 3             |             |
+| May 3, 9:30 | Qirui has awarded Jiawei for being able to use scooter with 25 dollars, which was saved from not calling Uber  | +3             | $25           | 6             | $25         |
+| May 3, 9:30 | Qirui apologized for not having enough alert to Jiawei that one may need extra preparation time for the first use of scooter | +1 |              | 7             |             |
+| May 3, 9:30 | Qirui tentatively wants to charge Jiawei for saying a little bit harmful words in emergency situations         | -2 (tentative) |               | 5             |             |
+| May 3, 10:00 | Qirui transferred $25 to Jiawei's account                                                                      |                | -$25          | 5             | $0          |
+| May 3, 17:50 | Jiawei charged herself 6 credits for being late (initially charged 30 credits and returned 24 credits)        | -6             |               | -1            |             |
 | May 3, 21:00 | Jiawei was charged 2 credits for her anger and inefficiency in solving problems and was fined for the cancellation fee of $5.75 | -2 | -$5.75        | -3            | -$5.75      |
-| May 3, 21:00 | Qirui awarded Jiawei 1 credit for apologizing and showing concern about her clothing's warmth              | +1 ||-2    
-
+| May 3, 21:00 | Qirui awarded Jiawei 1 credit for apologizing and showing concern about her clothing's warmth                  | +1             |               | -2            | -$5.75      |
+| May 4, 8:00  | Qirui awarded Jiawei $16 for being able to ride a scooter to work                                               |                | $16           | -2             | $10.25      |
+| May 5       | Qirui awarded Jiawei $360 for future travel credits due to a cancelled reservation                              |                | $360          | -2            | $370.25     |
 
 May 3 17:00 Qirui suggest 18:00 for meeting time. Jiawei changed it to 18:30 at 17:50, then Jiawei promised to charge herself 1 credits per 1 minutes late. She has been late for 30 minutes and therefore charged herself 30 credits. However, Qirui wants to return some credits by rolling a dice. The rule is to return 4 times the dice number. Then Jiawei rolled 6 and been awarded 24 credits back, therefore, she has only been charged for a total of 6 credits for her late.
 
 May 3 21:00 Jiawei told Qirui to call a Uber saying that it would be too late to went home (around 22:00). Qirui said it was OK and one can arrive within 20 minutes. But Qirui is also available to call a Uber. Then Qirui called a Uber. Jiawei saw that Qirui might be a little bit unwilling to call a Uber, then Jiawei just let Qirui to cancel that Uber. After running a little bit, Jiawei was angary and start complaning that Qirui is trying to save money. Qirui has dinied and called a Uber. After Jiawei went home, Jiawei is complaning that she is not being invited. Jia wei told Qirui to call a Uber back
+
+
+May 4 8:00 Jiawei is strong enough to ride a scooter to work. Qirui would awarded $16 to her account.
+
+May 5 Qirui has cancelled the reservation. Qirui would award Jiawei $360 for future travel credits.
 
 
 ## General Guidelines for Credit Values
