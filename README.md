@@ -72,3 +72,8 @@ May 5 Qirui has cancelled the reservation. Qirui would award Jiawei $360 for fut
 0507 哥哥帮我分析课题的idea 对我很有帮助 我也喜欢哥哥讲故事：
 我觉得哥哥关于作弊的做法其实很明智。保全了自己，然后恶人自然会收到应有的惩戒，只是不一定要哥哥去当这个恶人，这样让自己有了好名声也避免了潜在的威胁。哥哥似乎很懂运筹帷幄之道。
 哥哥会接受我的意见改变自己，真好，我也要变得更好，改善脾气
+
+2023-05-13
+[一封情书💌.docx](https://github.com/jwy6669/with-QiRui/files/11470506/default.docx)
+
+
